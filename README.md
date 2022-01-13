@@ -1,2 +1,2 @@
 # IBM-Data-Science-Python
-Repository for Python practice examples from IBM
+This is a repository for the Jupyter notebooks associated with Python For Data Analysis course from IBM
